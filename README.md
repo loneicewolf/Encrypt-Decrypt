@@ -96,7 +96,6 @@ for example if MIT LICENSE is used - `This repository is licensed under the [MIT
 - (DOCS) *Python Docs (for general docs)*
 - (GITHUB) *Some repos for templates*
 
-for example if MIT LICENSE is used - `This repository is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for more details.`
 
 
 
